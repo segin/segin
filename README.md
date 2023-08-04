@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @segin
-- 👀 I’m interested in system utilties
-- 🌱 I’m currently learning EXE formats
-- 💞️ I’m looking to collaborate on command-line tools
+- 👀 I’m interested in system utilties, 16-bit Windows (3.1x especially), OS/2. 
+- 🌱 I’m currently learning EXE formats.
+- 💞️ I’m looking to collaborate on anything that sounds interesting - reach out!
 - 📫 How to reach me - https://t.me/segintakushiro - segin2005@gmail.com 
 
 My GitHub stats: 
